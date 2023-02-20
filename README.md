@@ -1,14 +1,8 @@
-# FiveM car delivery script
+# CarDelivery FiveM Script on server with QbCore Framework.
 
-FiveM resource for servers with QbCore Framework.
-
-Start a mission for a car delivery, steal the car, drive it to the destination, profit.<br>
+Start a mission for a car delivery, steal the car, drive it to the destination, profit.
 *Note: This branch won't be updated unless requested so specifically for this branch.
 All created issues default to the new branch.
-
-📽️⬇️ Check the video below! 📽️⬇️
-
-[![Preview video](https://i.imgur.com/gJTgDYv.jpg)](http://www.youtube.com/watch?v=MU_RDg1ahBc "FiveM QBCore Car Delivery FREE Script")
 
 ## Features
 
@@ -38,7 +32,7 @@ All created issues default to the new branch.
    PlayerData.metadata['cardeliveryxp'] = PlayerData.metadata['cardeliveryxp'] or 0
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An example image can be found at the bottom of this section.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An example image can be found at the bottom of this section.
 
 5. If your server is running, remember to either restart your server or do **/refresh** and also **/start hiype-cardelivery**
 
@@ -54,12 +48,10 @@ Once there, go next to the NPC and press E key on your keyboard to start the job
 
 ![Job start location](https://i.imgur.com/b4coTdR.png)
 
-Follow the objective, use any lockpick to open the car and hotwire if necessary.<br>
-Drive to the destination. Beware, if the car is destroyed, job will **fail**!<br>
+Follow the objective, use any lockpick to open the car and hotwire if necessary.
+Drive to the destination. Beware, if the car is destroyed, job will **fail**!
 Once you arrive at the destination, stop the car inside the objective blip on mini map. Job will finish and you will get paid depending on distance driven and condition of the car.
 
 ## Support
 
-If you wish to support me in any way, you can do so through this link -> [Streamelements donos](https://streamelements.com/hiype/tip)<br>
-This link will redirect you to a Streamelements donation page which shows the donation on my youtube stream if I'm live<br>
-P.S Im rarely live and this was just easier to do
+If you wish to support me in any way, or need help? Write me on Discord-> [Dicord] --> MoDas#6969 <--
